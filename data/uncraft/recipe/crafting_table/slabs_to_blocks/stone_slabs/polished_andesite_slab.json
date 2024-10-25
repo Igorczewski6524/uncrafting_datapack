@@ -1,0 +1,11 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      "polished_andesite_slab",
+      "minecraft:polished_andesite_slab"
+    ],
+    "result": {
+      "id": "minecraft:polished_andesite",
+      "count": 1
+    }
+  }

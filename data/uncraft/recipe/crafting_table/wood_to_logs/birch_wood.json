@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+      "minecraft:birch_wood",
+      "minecraft:birch_wood",
+      "minecraft:birch_wood"
+    ],
+    "result": {
+      "id": "minecraft:birch_log",
+      "count": 4
+    }
+  }

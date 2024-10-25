@@ -1,0 +1,14 @@
+{
+    
+    "type": "crafting_shapeless",
+    "ingredients": [
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "minecraft:quartz_slab",
+      "quartz_slab"
+    ],
+    "result": {
+      "id": "minecraft:quartz_block",
+      "count": 2
+    }
+ }
