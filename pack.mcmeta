@@ -1,6 +1,7 @@
 {
     "pack": {
       "pack_format": 57,
-      "description": "Uncraft items"
+      "description": "Uncraft items",
+      "supported_formats": [57, 61],
     }
   }
